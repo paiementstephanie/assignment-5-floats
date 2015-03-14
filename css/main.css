@@ -1,0 +1,233 @@
+html {
+	box-sizing: border-box;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+body{
+font-family: 'Merriweather', serif;
+margin: 0;
+}
+
+img{
+	width:100%;
+}
+
+h1 {
+	color: white;
+	background-color:#cd5b34;
+	text-align: center;
+}
+
+h2 {
+	color:white;
+}
+
+header {
+	background-color: #cd5b34;
+	margin: 0em;
+	padding-top: 1em;
+}
+
+figcaption {
+	background-color:#d98156;
+}
+
+footer {
+	background-color:#cd5b34;
+	color: #dda999;
+	text-align:center;
+	clear: both;
+}
+
+div {
+	background-color:#d98156;
+	clear:both;
+	margin:0;
+	overflow: hidden;
+}
+
+.p2{
+	clear:left;
+	padding-top: .5em;
+	padding-left:.5em;
+}
+
+.oats {
+	color:white;
+	text-align: center;
+	font-style:italic;
+}
+
+.oats1 {
+	margin:0em;
+	float:right;
+	width: 50%;
+}
+
+.corn {
+	color:white;
+	text-align: center;
+	font-style:italic;
+	width:100%;
+}
+
+.corn1{
+	margin:0em;
+	padding:0em;
+	float:left;
+	text-align:center;
+	display:inline-block;
+}
+
+.rice {
+	text-align: center;
+	font-style: italic;
+	display:inline-block;
+	clear:left;
+}
+
+.rice1{
+	margin:0em;
+	display:inline-block;
+	float:left;
+	clear:left;
+	width:50%;
+}
+
+.imagegrains {
+	width: 40%;
+	float: left;
+	margin-right: 1em;
+	padding-left:.5em;
+}
+
+.imagecereal {
+	width: 40%;
+	float: right;
+	margin-left: .5em;
+	padding-right:.5em;
+}
+
+.imagequinoa {
+	float: right;
+	clear: right;
+	margin-top: 1em;
+	margin-left:.5em;
+	margin-bottom: 1em;
+	padding-right: .5em;
+	width: 40%
+}
+
+.cereal {
+	text-align:center;
+	padding:1em;
+}
+
+.peanut {
+	width: 30%;
+	float:left;
+	clear:left;
+	margin-right: .5em;
+	margin-bottom: .5em;
+}
+
+.beans {
+	width: 30%;
+	float: left;
+	margin-right: .5em;
+	clear:left;
+	margin-bottom: .5em;
+}
+
+.lentils {
+	width: 30%;
+	float: left;
+	margin-right: .5em;
+	clear:left;
+	margin-bottom: 1.5em;
+}
+
+.right {
+	width:60px;
+	float:right;
+	padding-top:1em;
+}
+
+.left {
+	width:60px;
+	float:left;
+	padding-top: 1em;
+}
+
+.legumes{
+	padding:0em;
+	margin:0em;
+	text-align: center;
+}
+
+
+footer{
+	padding:1em;
+}
+
+ol {
+	list-style-type:none;
+	padding:0em;
+	text-align: center;
+	overflow: hidden;
+	list-style-type: none;
+}
+
+ol a {
+	color: white;
+	text-decoration: none;
+}
+
+ol li {
+	border: 2px solid #a93f35;
+	padding: 0.6em 1em ;
+	display: block;
+	float: left;
+	width: 33.33333333%;
+}
+
+ol li:hover {
+	background-color: #a93f35;
+}
+
+figcaption{
+	text-align:center;
+	font-style:italic;
+	color: white;
+	padding:1em;
+}
+
+dt{
+	font-style:italic;
+}
+
+ul{
+	list-style-type:none;
+	margin:0em;
+	padding:0em;
+}
+
+li{
+	float:left;
+	display:inline-block;
+	margin-top: 1em;
+}
+
+ul img{
+	border: 1px solid black;
+	width:30%;
+	float:left;
+	margin:0em 0.5em 1em 1em;
+}
+
+h3{
+	text-align:center;
+}
